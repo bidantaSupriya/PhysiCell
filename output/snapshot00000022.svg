@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhysiCell (http://PhysiCell.MathCancer.org/) -->
+<svg 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:cc="http://creativecommons.org/ns#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:svg="http://www.w3.org/2000/svg" 
+ xmlns="http://www.w3.org/2000/svg" 
+ version="1.1" 
+ width="1000" 
+ height="1070" 
+ id="svg2">
+  <rect x="0" y="0" width="1000" height="1070" stroke-width="2" stroke="white" fill="white"/>
+  <text x="12.5" y="30"
+   font-family="Arial" font-size="25" fill="black" >
+   Current time: 0 days, 11 hours, and 0.00 minutes, z = 0.00 &#956;m
+  </text>
+  <text x="12.5" y="57.5"
+   font-family="Arial" font-size="23.75" fill="black" >
+   144 agents
+  </text>
+ <g id="tissue" 
+    transform="translate(0,1070) scale(1,-1)">
+  <g id="ECM">
+  </g>
+  <g id="cells">
+   <g id="cell0" type="cancer_cell" dead="false" >
+  <circle cx="418.096" cy="446.901" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="418.096" cy="446.901" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell1" type="cancer_cell" dead="false" >
+  <circle cx="417.928" cy="462.921" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="417.928" cy="462.921" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell2" type="cancer_cell" dead="false" >
+  <circle cx="417.825" cy="478.935" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="417.825" cy="478.935" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell3" type="cancer_cell" dead="false" >
+  <circle cx="417.786" cy="494.944" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="417.786" cy="494.944" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell4" type="cancer_cell" dead="false" >
+  <circle cx="417.811" cy="510.951" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="417.811" cy="510.951" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell5" type="cancer_cell" dead="false" >
+  <circle cx="417.899" cy="526.961" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="417.899" cy="526.961" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell6" type="cancer_cell" dead="false" >
+  <circle cx="418.053" cy="542.976" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="418.053" cy="542.976" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell7" type="cancer_cell" dead="false" >
+  <circle cx="432.099" cy="439.063" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="432.099" cy="439.063" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell8" type="cancer_cell" dead="false" >
+  <circle cx="431.914" cy="455.05" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="431.914" cy="455.05" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell9" type="cancer_cell" dead="false" >
+  <circle cx="431.788" cy="471.017" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="431.788" cy="471.017" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell10" type="cancer_cell" dead="false" >
+  <circle cx="431.723" cy="486.972" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="431.723" cy="486.972" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell11" type="cancer_cell" dead="false" >
+  <circle cx="431.718" cy="502.922" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="431.718" cy="502.922" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell12" type="cancer_cell" dead="false" >
+  <circle cx="431.771" cy="518.871" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="431.771" cy="518.871" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell13" type="cancer_cell" dead="false" >
+  <circle cx="431.884" cy="534.824" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="431.884" cy="534.824" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell14" type="cancer_cell" dead="false" >
+  <circle cx="432.062" cy="550.788" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="432.062" cy="550.788" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell15" type="cancer_cell" dead="false" >
+  <circle cx="432.265" cy="566.78" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="432.265" cy="566.78" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell16" type="cancer_cell" dead="false" >
+  <circle cx="446.301" cy="415.296" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="446.301" cy="415.296" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell17" type="cancer_cell" dead="false" >
+  <circle cx="446.125" cy="431.278" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="446.125" cy="431.278" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell18" type="cancer_cell" dead="false" >
+  <circle cx="445.937" cy="447.221" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.937" cy="447.221" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell19" type="cancer_cell" dead="false" >
+  <circle cx="445.803" cy="463.144" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.803" cy="463.144" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell20" type="cancer_cell" dead="false" >
+  <circle cx="445.721" cy="479.052" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.721" cy="479.052" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell21" type="cancer_cell" dead="false" >
+  <circle cx="445.692" cy="494.949" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.692" cy="494.949" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell22" type="cancer_cell" dead="false" >
+  <circle cx="445.714" cy="510.843" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.714" cy="510.843" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell23" type="cancer_cell" dead="false" >
+  <circle cx="445.788" cy="526.742" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.788" cy="526.742" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell24" type="cancer_cell" dead="false" >
+  <circle cx="445.913" cy="542.652" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="445.913" cy="542.652" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell25" type="cancer_cell" dead="false" >
+  <circle cx="446.073" cy="558.589" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="446.073" cy="558.589" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell26" type="cancer_cell" dead="false" >
+  <circle cx="446.268" cy="574.557" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="446.268" cy="574.557" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell27" type="cancer_cell" dead="false" >
+  <circle cx="460.274" cy="407.468" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="460.274" cy="407.468" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell28" type="cancer_cell" dead="false" >
+  <circle cx="460.12" cy="423.447" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="460.12" cy="423.447" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell29" type="cancer_cell" dead="false" >
+  <circle cx="459.977" cy="439.389" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.977" cy="439.389" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell30" type="cancer_cell" dead="false" >
+  <circle cx="459.851" cy="455.29" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.851" cy="455.29" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell31" type="cancer_cell" dead="false" >
+  <circle cx="459.766" cy="471.165" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.766" cy="471.165" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell32" type="cancer_cell" dead="false" >
+  <circle cx="459.723" cy="487.024" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.723" cy="487.024" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell33" type="cancer_cell" dead="false" >
+  <circle cx="459.723" cy="502.874" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.723" cy="502.874" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell34" type="cancer_cell" dead="false" >
+  <circle cx="459.764" cy="518.725" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.764" cy="518.725" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell35" type="cancer_cell" dead="false" >
+  <circle cx="459.844" cy="534.586" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.844" cy="534.586" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell36" type="cancer_cell" dead="false" >
+  <circle cx="459.955" cy="550.467" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="459.955" cy="550.467" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell37" type="cancer_cell" dead="false" >
+  <circle cx="460.093" cy="566.375" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="460.093" cy="566.375" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell38" type="cancer_cell" dead="false" >
+  <circle cx="460.255" cy="582.314" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="460.255" cy="582.314" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell39" type="cancer_cell" dead="false" >
+  <circle cx="460.355" cy="598.296" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="460.355" cy="598.296" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell40" type="cancer_cell" dead="false" >
+  <circle cx="474.216" cy="399.596" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="474.216" cy="399.596" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell41" type="cancer_cell" dead="false" >
+  <circle cx="474.099" cy="415.588" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="474.099" cy="415.588" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell42" type="cancer_cell" dead="false" >
+  <circle cx="473.995" cy="431.532" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.995" cy="431.532" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell43" type="cancer_cell" dead="false" >
+  <circle cx="473.904" cy="447.431" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.904" cy="447.431" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell44" type="cancer_cell" dead="false" >
+  <circle cx="473.834" cy="463.292" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.834" cy="463.292" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell45" type="cancer_cell" dead="false" >
+  <circle cx="473.794" cy="479.128" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.794" cy="479.128" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell46" type="cancer_cell" dead="false" >
+  <circle cx="473.783" cy="494.95" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.783" cy="494.95" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell47" type="cancer_cell" dead="false" >
+  <circle cx="473.801" cy="510.767" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.801" cy="510.767" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell48" type="cancer_cell" dead="false" >
+  <circle cx="473.845" cy="526.591" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.845" cy="526.591" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell49" type="cancer_cell" dead="false" >
+  <circle cx="473.911" cy="542.433" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.911" cy="542.433" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell50" type="cancer_cell" dead="false" >
+  <circle cx="473.995" cy="558.303" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="473.995" cy="558.303" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell51" type="cancer_cell" dead="false" >
+  <circle cx="474.093" cy="574.214" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="474.093" cy="574.214" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell52" type="cancer_cell" dead="false" >
+  <circle cx="474.176" cy="590.183" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="474.176" cy="590.183" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell53" type="cancer_cell" dead="false" >
+  <circle cx="488.04" cy="407.675" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="488.04" cy="407.675" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell54" type="cancer_cell" dead="false" >
+  <circle cx="487.984" cy="423.637" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.984" cy="423.637" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell55" type="cancer_cell" dead="false" >
+  <circle cx="487.936" cy="439.546" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.936" cy="439.546" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell56" type="cancer_cell" dead="false" >
+  <circle cx="487.9" cy="455.411" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.9" cy="455.411" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell57" type="cancer_cell" dead="false" >
+  <circle cx="487.878" cy="471.243" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.878" cy="471.243" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell58" type="cancer_cell" dead="false" >
+  <circle cx="487.872" cy="487.053" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.872" cy="487.053" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell59" type="cancer_cell" dead="false" >
+  <circle cx="487.881" cy="502.852" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.881" cy="502.852" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell60" type="cancer_cell" dead="false" >
+  <circle cx="487.901" cy="518.653" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.901" cy="518.653" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell61" type="cancer_cell" dead="false" >
+  <circle cx="487.93" cy="534.468" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.93" cy="534.468" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell62" type="cancer_cell" dead="false" >
+  <circle cx="487.966" cy="550.308" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="487.966" cy="550.308" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell63" type="cancer_cell" dead="false" >
+  <circle cx="488.005" cy="566.185" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="488.005" cy="566.185" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell64" type="cancer_cell" dead="false" >
+  <circle cx="488.039" cy="582.112" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="488.039" cy="582.112" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell65" type="cancer_cell" dead="false" >
+  <circle cx="488.065" cy="598.091" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="488.065" cy="598.091" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell66" type="cancer_cell" dead="false" >
+  <circle cx="501.924" cy="399.701" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.924" cy="399.701" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell67" type="cancer_cell" dead="false" >
+  <circle cx="501.925" cy="415.69" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.925" cy="415.69" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell68" type="cancer_cell" dead="false" >
+  <circle cx="501.929" cy="431.621" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.929" cy="431.621" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell69" type="cancer_cell" dead="false" >
+  <circle cx="501.937" cy="447.504" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.937" cy="447.504" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell70" type="cancer_cell" dead="false" >
+  <circle cx="501.949" cy="463.347" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.949" cy="463.347" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell71" type="cancer_cell" dead="false" >
+  <circle cx="501.965" cy="479.161" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.965" cy="479.161" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell72" type="cancer_cell" dead="false" >
+  <circle cx="501.98" cy="494.959" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.98" cy="494.959" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell73" type="cancer_cell" dead="false" >
+  <circle cx="501.991" cy="510.753" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.991" cy="510.753" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell74" type="cancer_cell" dead="false" >
+  <circle cx="501.997" cy="526.555" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.997" cy="526.555" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell75" type="cancer_cell" dead="false" >
+  <circle cx="501.994" cy="542.378" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.994" cy="542.378" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell76" type="cancer_cell" dead="false" >
+  <circle cx="501.984" cy="558.232" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.984" cy="558.232" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell77" type="cancer_cell" dead="false" >
+  <circle cx="501.964" cy="574.13" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.964" cy="574.13" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell78" type="cancer_cell" dead="false" >
+  <circle cx="501.938" cy="590.081" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.938" cy="590.081" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell79" type="cancer_cell" dead="false" >
+  <circle cx="501.912" cy="606.085" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="501.912" cy="606.085" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell80" type="cancer_cell" dead="false" >
+  <circle cx="515.808" cy="407.676" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.808" cy="407.676" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell81" type="cancer_cell" dead="false" >
+  <circle cx="515.868" cy="423.638" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.868" cy="423.638" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell82" type="cancer_cell" dead="false" >
+  <circle cx="515.927" cy="439.55" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.927" cy="439.55" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell83" type="cancer_cell" dead="false" >
+  <circle cx="515.984" cy="455.419" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.984" cy="455.419" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell84" type="cancer_cell" dead="false" >
+  <circle cx="516.035" cy="471.253" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="516.035" cy="471.253" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell85" type="cancer_cell" dead="false" >
+  <circle cx="516.072" cy="487.066" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="516.072" cy="487.066" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell86" type="cancer_cell" dead="false" >
+  <circle cx="516.091" cy="502.869" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="516.091" cy="502.869" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell87" type="cancer_cell" dead="false" >
+  <circle cx="516.088" cy="518.675" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="516.088" cy="518.675" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell88" type="cancer_cell" dead="false" >
+  <circle cx="516.062" cy="534.494" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="516.062" cy="534.494" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell89" type="cancer_cell" dead="false" >
+  <circle cx="516.014" cy="550.339" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="516.014" cy="550.339" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell90" type="cancer_cell" dead="false" >
+  <circle cx="515.946" cy="566.222" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.946" cy="566.222" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell91" type="cancer_cell" dead="false" >
+  <circle cx="515.866" cy="582.15" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.866" cy="582.15" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell92" type="cancer_cell" dead="false" >
+  <circle cx="515.785" cy="598.13" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="515.785" cy="598.13" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell93" type="cancer_cell" dead="false" >
+  <circle cx="529.629" cy="399.593" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.629" cy="399.593" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell94" type="cancer_cell" dead="false" >
+  <circle cx="529.747" cy="415.587" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.747" cy="415.587" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell95" type="cancer_cell" dead="false" >
+  <circle cx="529.857" cy="431.534" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.857" cy="431.534" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell96" type="cancer_cell" dead="false" >
+  <circle cx="529.962" cy="447.439" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.962" cy="447.439" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell97" type="cancer_cell" dead="false" >
+  <circle cx="530.059" cy="463.306" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="530.059" cy="463.306" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell98" type="cancer_cell" dead="false" >
+  <circle cx="530.132" cy="479.148" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="530.132" cy="479.148" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell99" type="cancer_cell" dead="false" >
+  <circle cx="530.173" cy="494.976" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="530.173" cy="494.976" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell100" type="cancer_cell" dead="false" >
+  <circle cx="530.178" cy="510.801" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="530.178" cy="510.801" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell101" type="cancer_cell" dead="false" >
+  <circle cx="530.144" cy="526.634" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="530.144" cy="526.634" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell102" type="cancer_cell" dead="false" >
+  <circle cx="530.074" cy="542.486" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="530.074" cy="542.486" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell103" type="cancer_cell" dead="false" >
+  <circle cx="529.971" cy="558.368" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.971" cy="558.368" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell104" type="cancer_cell" dead="false" >
+  <circle cx="529.843" cy="574.29" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.843" cy="574.29" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell105" type="cancer_cell" dead="false" >
+  <circle cx="529.703" cy="590.259" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="529.703" cy="590.259" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell106" type="cancer_cell" dead="false" >
+  <circle cx="543.571" cy="407.464" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="543.571" cy="407.464" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell107" type="cancer_cell" dead="false" >
+  <circle cx="543.722" cy="423.444" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="543.722" cy="423.444" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell108" type="cancer_cell" dead="false" >
+  <circle cx="543.872" cy="439.392" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="543.872" cy="439.392" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell109" type="cancer_cell" dead="false" >
+  <circle cx="544.021" cy="455.3" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.021" cy="455.3" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell110" type="cancer_cell" dead="false" >
+  <circle cx="544.138" cy="471.183" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.138" cy="471.183" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell111" type="cancer_cell" dead="false" >
+  <circle cx="544.214" cy="487.048" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.214" cy="487.048" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell112" type="cancer_cell" dead="false" >
+  <circle cx="544.242" cy="502.907" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.242" cy="502.907" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell113" type="cancer_cell" dead="false" >
+  <circle cx="544.217" cy="518.77" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.217" cy="518.77" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell114" type="cancer_cell" dead="false" >
+  <circle cx="544.141" cy="534.645" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.141" cy="534.645" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell115" type="cancer_cell" dead="false" >
+  <circle cx="544.018" cy="550.543" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="544.018" cy="550.543" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell116" type="cancer_cell" dead="false" >
+  <circle cx="543.856" cy="566.474" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="543.856" cy="566.474" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell117" type="cancer_cell" dead="false" >
+  <circle cx="543.667" cy="582.445" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="543.667" cy="582.445" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell118" type="cancer_cell" dead="false" >
+  <circle cx="557.542" cy="415.29" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="557.542" cy="415.29" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell119" type="cancer_cell" dead="false" >
+  <circle cx="557.707" cy="431.271" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="557.707" cy="431.271" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell120" type="cancer_cell" dead="false" >
+  <circle cx="557.911" cy="447.22" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="557.911" cy="447.22" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell121" type="cancer_cell" dead="false" >
+  <circle cx="558.077" cy="463.15" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="558.077" cy="463.15" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell122" type="cancer_cell" dead="false" >
+  <circle cx="558.196" cy="479.064" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="558.196" cy="479.064" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell123" type="cancer_cell" dead="false" >
+  <circle cx="558.257" cy="494.971" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="558.257" cy="494.971" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell124" type="cancer_cell" dead="false" >
+  <circle cx="558.255" cy="510.877" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="558.255" cy="510.877" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell125" type="cancer_cell" dead="false" >
+  <circle cx="558.19" cy="526.791" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="558.19" cy="526.791" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell126" type="cancer_cell" dead="false" >
+  <circle cx="558.064" cy="542.719" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="558.064" cy="542.719" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell127" type="cancer_cell" dead="false" >
+  <circle cx="557.885" cy="558.67" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="557.885" cy="558.67" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell128" type="cancer_cell" dead="false" >
+  <circle cx="557.665" cy="574.655" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="557.665" cy="574.655" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell129" type="cancer_cell" dead="false" >
+  <circle cx="571.723" cy="439.039" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="571.723" cy="439.039" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell130" type="cancer_cell" dead="false" >
+  <circle cx="571.937" cy="455.036" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="571.937" cy="455.036" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell131" type="cancer_cell" dead="false" >
+  <circle cx="572.106" cy="471.008" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="572.106" cy="471.008" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell132" type="cancer_cell" dead="false" >
+  <circle cx="572.207" cy="486.972" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="572.207" cy="486.972" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell133" type="cancer_cell" dead="false" >
+  <circle cx="572.239" cy="502.935" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="572.239" cy="502.935" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell134" type="cancer_cell" dead="false" >
+  <circle cx="572.199" cy="518.899" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="572.199" cy="518.899" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell135" type="cancer_cell" dead="false" >
+  <circle cx="572.088" cy="534.871" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="572.088" cy="534.871" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell136" type="cancer_cell" dead="false" >
+  <circle cx="571.91" cy="550.855" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="571.91" cy="550.855" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell137" type="cancer_cell" dead="false" >
+  <circle cx="571.675" cy="566.863" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="571.675" cy="566.863" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell138" type="cancer_cell" dead="false" >
+  <circle cx="585.942" cy="462.88" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="585.942" cy="462.88" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell139" type="cancer_cell" dead="false" >
+  <circle cx="586.085" cy="478.905" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="586.085" cy="478.905" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell140" type="cancer_cell" dead="false" >
+  <circle cx="586.154" cy="494.929" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="586.154" cy="494.929" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell141" type="cancer_cell" dead="false" >
+  <circle cx="586.149" cy="510.955" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="586.149" cy="510.955" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell142" type="cancer_cell" dead="false" >
+  <circle cx="586.068" cy="526.982" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="586.068" cy="526.982" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+   <g id="cell143" type="cancer_cell" dead="false" >
+  <circle cx="585.914" cy="543.009" r="8.41271" stroke-width="0.5" stroke="black" fill="grey"/>
+  <circle cx="585.914" cy="543.009" r="5.05167" stroke-width="0.5" stroke="grey" fill="grey"/>
+   </g>
+  </g>
+ </g>
+  <rect x="775" y="1035" width="200" height="10" stroke-width="2" stroke="rgb(255,255,255)" fill="rgb(0,0,0)"/>
+  <text x="781.25" y="1028.75"
+   font-family="Arial" font-size="25" fill="black" >
+   200 &#956;m
+  </text>
+  <text x="25" y="1045"
+   font-family="Arial" font-size="18.75" fill="black" >
+   0 days, 0 hours, 2 minutes, and 18.3603 seconds
+  </text>
+  <rect x="0" y="70" width="1000" height="1000" stroke-width="2" stroke="rgb(0,0,0)" fill="none"/>
+</svg>
